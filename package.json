@@ -1,0 +1,10 @@
+{
+  "name": "dpluralize",
+  "version": "1.0.0",
+  "description": "simplest pluralizer",
+  "main": "index.js",
+  "repository": "https://github.com/devoutprogrammer/packages-dpluralize.git",
+  "author": "The Devout Programmer <github@devoutprogrammer.com>",
+  "license": "MIT",
+  "private": false
+}
