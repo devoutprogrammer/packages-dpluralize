@@ -8,8 +8,8 @@
  ## example
 ```javascript
  const pluralize = require('dpluralize')
- pluralize(1, 'fruit')
- pluralize(2, 'fruit')
+ pluralize(1, 'fruit') // fruit
+ pluralize(2, 'fruit') // fruits
 ```
  
 
