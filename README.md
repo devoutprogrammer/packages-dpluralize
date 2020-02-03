@@ -1,11 +1,15 @@
 # dpluralize
 
-## install dependencies
+## installation
 
-\$ yarn add dpluralize
+```bash
+ yarn add dpluralize
+```
+ ## example
+```javascript
+ const pluralize = require('dpluralize')
+ pluralize(1, 'fruit')
+ pluralize(2, 'fruit')
+```
+ 
 
-## example
-
-$ pluralize = require('depluralize')
-$ pluralize(1, 'fruit')
-\$ pluralize(3, 'fruit')
