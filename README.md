@@ -1,5 +1,7 @@
 # dpluralize
 
+notes: only works for regular words
+
 ## installation
 
 ```bash
